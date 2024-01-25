@@ -32,3 +32,4 @@ class GeneCmdr:
             for msg in inbox_content:
                 print(msg)
 
+ 
