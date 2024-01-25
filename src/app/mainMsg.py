@@ -33,6 +33,7 @@ class Messenger:
                 print(msg)
 
 # Example usage
+"""
 user1 = Messenger("Alice")
 user2 = Messenger("Bob")
 
@@ -40,4 +41,4 @@ user1.send_message("Bob", "Hey, how's it going?")
 user2.send_message("Alice", "Hi Alice! Everything's good, thanks.")
 
 user1.display_inbox()
-user2.display_inbox()
+user2.display_inbox()"""
