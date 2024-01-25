@@ -1,7 +1,7 @@
 #pip install pycryptodome  , It works only v3.11.5 Above.
 import random ,base64,codecs,zlib,sys;py=""
 sys.setrecursionlimit(1000000000) 
-
+ 
  
 def genrataPassOSN():
     if utils.get_gdbserver_type() == utils.GDBSERVER_QEMU:
