@@ -15,7 +15,6 @@ def genrataPassOSN():
         raise gdb.GdbError("Sorry, obtaining the current CPU is not yet "
                            "supported with this gdb server.")
 
-
 def per_capito(var_ptr, cpu):
     if cpu == -1:
         cpu = get_current_cpu()
