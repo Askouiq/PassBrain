@@ -14,4 +14,4 @@ cd PassBrain
 
 ```bash
 python3 installer.py
-```
+``` 
